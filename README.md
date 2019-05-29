@@ -4,7 +4,7 @@ Author: "Astuti Dewi Wararwati"
 Date: "29 May 2019"
 ---
 
-# Getting-Cleaning-Data-Week-4-Project
+# Getting and Cleaning Data - Week 4 Project
 
 This repository contains the documentation of Week 4 on Getting and Cleaning Data Course Project.
 
