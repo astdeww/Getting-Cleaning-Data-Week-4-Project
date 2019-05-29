@@ -49,3 +49,4 @@ This step used chaining based on magrittr package. The idea was to group the dat
 ```
     the_data %>% group_by(activity, subject) %>% summarize_all(funs(mean)) 
 ```
+The data was saved by using write.table (in *.txt format). 
