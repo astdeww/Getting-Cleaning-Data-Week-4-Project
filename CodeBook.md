@@ -1,6 +1,6 @@
 ---
 Title: 'Getting and Cleaning Data - Week 4 Project'
-Author: "Astuti Dewi Wararwati"
+Author: "Astuti Dewi Warawati"
 Date: "29 May 2019"
 ---
 
