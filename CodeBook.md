@@ -33,7 +33,8 @@ The following text files were imported by using read.table:
 - 'subject_test.txt'
 - 'x_test.txt'
 - 'y_test.txt'
-Files were imported one by one and then file X, y, and subject merged into one.
+
+Those files were imported one by one by using read.table; and then file X, y, and subject merged into one data set.
 
 #### 2. Extracting only the measurements on the mean and standard deviation for each measurement.
 Based on features (in features.txt), the data on second column which had mean and standard deviation (std) was saved into new variable. This variable is used to select the features with attribute mean and standard deviation.
